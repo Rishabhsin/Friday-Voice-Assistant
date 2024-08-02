@@ -68,10 +68,3 @@ music = {
 ## Contributing
 
 Feel free to submit pull requests or open issues if you find bugs or have suggestions for improvements.
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-This `README.md` provides an overview of the project, instructions for installation and usage, and other relevant information for contributors and users.
