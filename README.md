@@ -13,8 +13,8 @@ Friday is a voice-activated assistant designed to perform specific tasks based o
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/friday-voice-assistant.git
-    cd friday-voice-assistant
+    git clone https://github.com/RISHABHSINGH3006/Friday-Voice-Assistant.git
+    cd Friday-Voice-Assistant
     ```
 
 2. Install the required Python packages:
