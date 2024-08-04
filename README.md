@@ -64,7 +64,3 @@ music = {
 - `gtts`
 - `pygame`
 - `pocketsphinx`
-
-## Contributing
-
-Feel free to submit pull requests or open issues if you find bugs or have suggestions for improvements.
